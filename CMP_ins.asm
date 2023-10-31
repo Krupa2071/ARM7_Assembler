@@ -1,0 +1,3 @@
+MOV R11, 4
+MOV R12, 4
+CMP R11, R12
